@@ -1,0 +1,47 @@
+.twitter, .linkedin, .github, .tumblr {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+.twitter {
+  background-image: url('../img/twitter.png');
+  transition: .25s all ease;
+}
+
+.twitter:hover {
+  background-image: url('../img/twitter_hover.png');
+  transition: .25s all ease;
+}
+
+.linkedin {
+  background-image: url('../img/linkedin.png');
+  transition: .25s all ease;
+}
+
+.linkedin:hover {
+  background-image: url('../img/linkedin_hover.png');
+  transition: .25s all ease;
+}
+
+
+.github {
+  background-image: url('../img/github.png');
+  transition: .25s all ease;
+}
+
+.github:hover {
+  background-image: url('../img/github_hover.png');
+  transition: .25s all ease;
+}
+
+
+.tumblr {
+  background-image: url('../img/tumblr.png');
+  transition: .25s all ease;
+}
+
+.tumblr:hover {
+  background-image: url('../img/tumblr_hover.png');
+  transition: .25s all ease;
+}
