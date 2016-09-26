@@ -1,8 +1,9 @@
 body {
-  background-color: #ecf0f1;
+  background-color: #E8EAF6;
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
-  padding: 8%;
+  padding: 10% 6%;
+  color: #37474F;
 }
 
 h1 {
