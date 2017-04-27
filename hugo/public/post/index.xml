@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2017 15:24:05 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello</title>
+      <link>http://example.org/post/hello/</link>
+      <pubDate>Wed, 26 Apr 2017 15:24:05 -0700</pubDate>
+      
+      <guid>http://example.org/post/hello/</guid>
+      <description>This is a blog post. Film construct A.I. savant systema dolphin corporation table beef noodles San Francisco knife soul-delay face forwards 3D-printed plastic order-flow. Decay face forwards tanto camera sub-orbital tank-traps boat 8-bit. Decay wonton soup saturation point numinous sprawl assassin face forwards. Table dissident otaku bicycle BASE jump construct tanto bridge realism free-market augmented reality math-sunglasses semiotics vehicle. San Francisco pistol alcohol Kowloon saturation point grenade urban weathered jeans. Tattoo decay Tokyo cyber-vinyl sign city sunglasses concrete neon nano-nodality media RAF artisanal bicycle.</description>
+    </item>
+    
+  </channel>
+</rss>
