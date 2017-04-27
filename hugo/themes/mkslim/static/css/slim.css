@@ -129,10 +129,11 @@ blockquote {
 
 hr {
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
   display: block;
-  width: 150px;
-  margin: 1.5rem 0; }
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  display: block;
+  width: 94%;
+  margin: 3.0rem 3%; }
 
 button,
 .btn {
@@ -365,3 +366,22 @@ button,
 	color: #ccc;
 }
 
+ol {
+  padding-left: 1rem;
+}
+
+ol li {
+  padding-left: 1rem;
+}
+
+
+/* Begin CODEPEN EMBED styles */
+.cp_embed_wrapper {
+  width: 80vw;
+  margin-left: -13vw;
+}
+
+.codepen-embed-body {
+  border-color: #DDD;
+}
+/* End CODEPEN EMBED styles */
